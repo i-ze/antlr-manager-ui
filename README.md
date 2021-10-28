@@ -17,3 +17,4 @@ Features for the future:
 - code completion (language elements only)
 - code completion (system built-in functions & environment variables)
 - show execution result on the UI
+- ?
