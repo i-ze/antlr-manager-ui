@@ -16,3 +16,4 @@ Features for the future:
 - script validation
 - code completion (language elements only)
 - code completion (system built-in functions & environment variables)
+- show execution result on the UI
